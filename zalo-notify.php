@@ -1,8 +1,8 @@
 /**
 <?php
 /*
-Plugin Name: Woo Expiration Notify
-Description: Notify customers via Zalo SMS when their product license is about to expire.
+Plugin Name: Woo Zalo Expiration Notify
+Description: Notify customers via Zalo SMS when their product license is about to expire for ekeyms.vn.
 Version: 1.0
 Author: Binjuhor
 Author URI: https://binjuhor.com
